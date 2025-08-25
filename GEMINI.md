@@ -14,6 +14,6 @@
 - the python coding style is by creating class-based paradigm.
 - this project use a team of gemini ADK agents. It is able to manage state, short-term memory and long-term memory. See latest documentation at https://google.github.io/adk-docs/
 - this project is based in this other project: https://github.com/GoogleCloudPlatform/devrel-demos/tree/main/ai-ml/python-tutor
-- the session state data is stored in a local mongoDB database. Use pymongo to manage the database.
-- the long-term memory uses vertex AI memory bank. Check https://cloud.google.com/vertex-ai/generative-ai/docs/agent-engine/memory-bank/overview for latest details.
+- the session state and long-term memory data are stored in a local mongoDB database. Use pymongo to manage the database.
+
 
