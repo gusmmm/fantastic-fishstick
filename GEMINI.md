@@ -16,4 +16,5 @@
 - this project is based in this other project: https://github.com/GoogleCloudPlatform/devrel-demos/tree/main/ai-ml/python-tutor
 - the session state and long-term memory data are stored in a local mongoDB database. Use pymongo to manage the database.
 
-
+# tests and demos
+- if you create test and demo scritps, do so only in the tests/ folder
